@@ -1,3 +1,4 @@
 #!/bin/bash
+6-multiple_permissions
 touch hello
 chmod u+x hello
